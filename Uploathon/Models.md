@@ -5,11 +5,13 @@
 The BioImage Model Zoo Uploathon is an event aimed at bringing together experts and non-experts to upload models to the [BioImage Model Zoo](https://bioimage.io). Participants will engage in activities such as uploading their trained models, converting popular community models, and fine-tuning existing models. The goal is to increase the number of available models in the BioImage Model Zoo and to evaluate the process of model uploading, conversion, and fine-tuning.
 
 ## Model Categories
+> Add the type of data you think it's useful to have here gathered such as the dataset it was trained on or something similar.
 
 ### 1. Models from Participants
 
 These are models that participants, particularly those from the Human Technopole in Milan, have trained themselves.
-#### Custo Models
+
+#### Custom Models
 
 - **Ashesh's Model(s)**
   - **Description:** Custom model for microscopic image splitting.
@@ -72,18 +74,7 @@ These models will be fine-tuned by non-experts during the event, using tools lik
 For each model, please fill out the following meta-data:
 
 - **Model Name:**
-- **Description:**
-- **Trained By:**
-- **Training Data:**
-- **Performance Metrics:**
-- **Format:**
-- **Conversion Notes:**
-- **Additional Information:**
+  - **Description:**
+  - **Trained By:**
+  - **Training Data:**
 
-## Notes
-
-Please ensure that all models adhere to the BioImage Model Zoo format requirements. Assistance will be provided during the event to help with model conversion and metadata documentation.
-
----
-
-This markdown file provides a structured approach to organizing and tracking the models for the uploathon event. Please fill in the necessary meta-data and update the progress tracking table as the event progresses.
