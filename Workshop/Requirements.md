@@ -44,6 +44,34 @@
 ### Workshops Using Fiji:
 - **Transformers (SAMJ)** by Carlos García López de Haro, Daniel Sage, and Caterina Fúster-Barceló
 
+## 3. PyTorch Workshop for Basic Tooling in Deep Learning
+
+### Requirements:
+- Google Colab account or Python environment
+
+### Instructions:
+1. **Google Colab:**
+   - Ensure you have access to [Google Colab](https://colab.research.google.com).
+
+2. **Alternative Setup:** *(not mandatory if you have access to Google Colab)*
+   - Install [Python](https://www.python.org/downloads/).
+   - Download and install [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
+   - Install [Jupyter](https://jupyter.org/install).
+
+3. **Configuration Instructions:**
+   - Option 1: Use Google Colab.
+   - Option 2: Clone and install the repository:
+     ```bash
+     git clone https://github.com/BioImage-Archive/pytorch_tutorial
+     cd pytorch_tutorial
+     pip install -r requirements.txt
+     ```
+4. **Testing Setup:**
+   - Follow the instructions on [PyTorch Vision](https://pytorch.org/vision/stable/index.html) to verify your setup.
+
+5. **Workshop Files:**
+   - Available at [pytorch_tutorial repository](https://github.com/BioImage-Archive/pytorch_tutorial).
+
 ## Additional Information
 
 Please ensure all installations and setups are completed before the workshop begins. If you encounter any issues or have any questions, feel free to reach out to the workshop coordinators for assistance.
