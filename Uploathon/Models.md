@@ -13,14 +13,14 @@ These are models that participants, particularly those from the Human Technopole
 
 #### Custom Models
 
-- **Ashesh's Model(s)**
-  - **Description:** Custom model for microscopic image splitting.
-  - **Trained By:** Ashesh (PhD Student)
+- **µSplit: image decomposition for fluorescence microscopy**
+  - **Description:** [µSplit blog post](https://ashesh-0.github.io/uSplit/)
+  - **Trained By:** Ashesh (Juglab's PhD Student)
   - **Meta-data:** (To be filled)
   
-- **Nuno's Model**
-  - **Description:** Custom model.
-  - **Trained By:** Nuno (Recent PhD Student)
+- **DeepContrast**
+  - **Description:** [DeepContrast](https://arxiv.org/abs/2308.08365): Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions.
+  - **Trained By:** Nuno (Juglab's graduated PhD Student)
   - **Meta-data:** (To be filled)
 
 #### OpenCall Models
