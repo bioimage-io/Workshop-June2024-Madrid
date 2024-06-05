@@ -22,6 +22,7 @@
 - **Introduction to DL Libraries** by Craig Russel and Daniel Franco-Barranco
 - **bioImage.IO Cloud Service Demo** by Wei Ouyang and Estibaliz Gómez-de-Mariscal
 - **Build your own BioImage Analysis Workflow with BiaPy** by Daniel Franco-Barranco
+- **Creating and integrating BioImage.IO models in your code** (or local Python env) by Fynn Beuttenmüller
 
 ## 2. Fiji Installation
 
