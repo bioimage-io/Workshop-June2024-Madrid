@@ -19,14 +19,14 @@
    - Ensure you can log in and create new notebooks.
 
 ### Workshops Using Google Colab:
-- **Introduction to DL Libraries** by Craig Russel and Daniel Franco-Barranco
-- **bioImage.IO Cloud Service Demo** by Wei Ouyang and Estibaliz Gómez-de-Mariscal
-- **Build your own BioImage Analysis Workflow with BiaPy** by Daniel Franco-Barranco
-- **Creating and integrating BioImage.IO models in your code** (or local Python env) by Fynn Beuttenmüller
+- **Introduction to DL Libraries** by Craig Russell and Daniel Franco-Barranco.
+- **bioImage.IO Cloud Service Demo** by Wei Ouyang and Estibaliz Gómez-de-Mariscal.
+- **Build your own BioImage Analysis Workflow with BiaPy** by Daniel Franco-Barranco.
+- **Creating and integrating BioImage.IO models in your code** (or local Python env) by Fynn Beuttenmüller.
 
 ## 2. ChatGPT Account
 ### Requirements:
-- ChatGPT account (can be created using your Google account)
+- ChatGPT account (can be created using your Google account).
 
 ### Instructions:
 1. **Create a ChatGPT Account (if you don't have one):**
@@ -37,13 +37,13 @@
    - Once your account is created, ensure you can log in and access the ChatGPT interface.
 
 ### Workshops Using ChatGPT:
-- **BioImage.IO Cloud Service** by Wei Ouyang and Estíbaliz Gómez-de-Mariscal
-- **BioImage.IO Chatbot and Extensions Development** by Caterina Fuster-Barceló, Wanlu Lei and Wei Ouyang
+- **BioImage.IO Cloud Service** by Wei Ouyang and Estibaliz Gómez-de-Mariscal.
+- **BioImage.IO Chatbot and Extensions Development** by Caterina Fuster-Barceló, Wanlu Lei and Wei Ouyang.
 
 ## 3. Fiji Installation
 
 ### Requirements:
-- Fiji software installed with additional plugins such as SAMJ
+- Fiji software installed with additional plugins such as SAMJ.
 
 ### Instructions:
 1. **Download and Install Fiji:**
@@ -54,23 +54,23 @@
 2. **Install Additional Plugins:**
    - Open Fiji.
    - Go to `Help -> Update...` and update Fiji to the latest version if necessary. 
-   - Before applying changes, go to "Manage Update Sties", look for "SAMJ", check it, and click "Apply Changes". Click again to "Apply Changes" in the main window.
+   - Before applying changes, go to "Manage Update Sites", look for "SAMJ", check it, and click "Apply Changes". Click again to "Apply Changes" in the main window.
    - Restart Fiji.
-   - Ensure you have the necessary plugins installed through `Plugins -> SAMJ`
+   - Ensure you have the necessary plugins installed through `Plugins -> SAMJ`.
 
 ### Workshops Using Fiji:
-- **Transformers (SAMJ)** by Carlos García López de Haro, Daniel Sage, and Caterina Fúster-Barceló
+- **Transformers (SAMJ)** by Carlos García López de Haro, Daniel Sage, and Caterina Fuster-Barceló.
 
 ## 4. PyTorch Workshop for Basic Tooling in Deep Learning
 
 ### Requirements:
-- Google Colab account or Python environment
+- Google Colab account or Python environment.
 
 ### Instructions:
 1. **Google Colab:**
    - Ensure you have access to [Google Colab](https://colab.research.google.com).
 
-2. **Alternative Setup:** *(not mandatory if you have access to Google Colab)*
+2. **Alternative Setup:** *(not needed if you have access to Google Colab)*
    - Install [Python](https://www.python.org/downloads/).
    - Download and install [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
    - Install [Jupyter](https://jupyter.org/install).
@@ -91,6 +91,6 @@
 
 ## Additional Information
 
-Please ensure all installations and setups are completed before the workshop begins. If you encounter any issues or have any questions, feel free to reach out to the workshop coordinators for assistance.
+Please ensure all the software is installed and setups are completed before the workshop begins. If you encounter any issues or have any questions, feel free to reach out to the workshop coordinators for assistance.
 
 We look forward to your active participation in the AI4Life Workshop!
