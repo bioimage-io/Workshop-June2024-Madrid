@@ -24,7 +24,23 @@
 - **Build your own BioImage Analysis Workflow with BiaPy** by Daniel Franco-Barranco
 - **Creating and integrating BioImage.IO models in your code** (or local Python env) by Fynn Beuttenmüller
 
-## 2. Fiji Installation
+## 2. ChatGPT Account
+### Requirements:
+- ChatGPT account (can be created using your Google account)
+
+### Instructions:
+1. **Create a ChatGPT Account (if you don't have one):**
+   - Go to [ChatGPT Sign Up](https://chat.openai.com/auth/login).
+   - Click on "Continue with Google" and follow the on-screen instructions to create your account using your Google credentials.
+
+2. **Verify Access:**
+   - Once your account is created, ensure you can log in and access the ChatGPT interface.
+
+### Workshops Using ChatGPT:
+- **BioImage.IO Cloud Service** by Wei Ouyang and Estíbaliz Gómez-de-Mariscal
+- **BioImage.IO Chatbot and Extensions Development** by Caterina Fuster-Barceló, Wanlu Lei and Wei Ouyang
+
+## 3. Fiji Installation
 
 ### Requirements:
 - Fiji software installed with additional plugins such as SAMJ
@@ -45,7 +61,7 @@
 ### Workshops Using Fiji:
 - **Transformers (SAMJ)** by Carlos García López de Haro, Daniel Sage, and Caterina Fúster-Barceló
 
-## 3. PyTorch Workshop for Basic Tooling in Deep Learning
+## 4. PyTorch Workshop for Basic Tooling in Deep Learning
 
 ### Requirements:
 - Google Colab account or Python environment
