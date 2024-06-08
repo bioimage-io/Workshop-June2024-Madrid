@@ -25,14 +25,11 @@ These are models that participants, particularly those from the Human Technopole
 
 #### OpenCall Models
 - **Model 1: Cellpose**
-    - **Description:** Cellpose model from the first OpenCall.
-    - **Meta-data:** (To be filled)
+    - **Description:** Murine Skeletal Muscle Cell Segmentation.
+    - **Meta-data:** [project git repo](https://github.com/ai4life-opencalls/oc-1-project-6/tree/main)
 - **Model 2: Cellpose**
-    - **Description:** Cellpose model from the first OpenCall.
-    - **Meta-data:** (To be filled)
-- **Model 3: Detectron**
-    - **Description:** Detectron model from the first OpenCall.
-    - **Meta-data:** (To be filled)
+    - **Description:** Segmentation of Epithelial Cells.
+    - **Meta-data:** [project git repo](https://github.com/ai4life-opencalls/oc-1-project-11/tree/main)
 
 ### 2. Community Interest Models
 
