@@ -16,17 +16,16 @@ These are models that participants, particularly those from the Human Technopole
 - **µSplit: image decomposition for fluorescence microscopy**
   - **Description:** [µSplit blog post](https://ashesh-0.github.io/uSplit/)
   - **Trained By:** Ashesh (Juglab's PhD Student)
-  - **Meta-data:** (To be filled)
   
 - **DeepContrast**
   - **Description:** [DeepContrast](https://arxiv.org/abs/2308.08365): Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions.
   - **Trained By:** Nuno (Juglab's graduated PhD Student)
-  - **Meta-data:** (To be filled)
 
 #### OpenCall Models
 - **Model 1: Cellpose**
     - **Description:** Murine Skeletal Muscle Cell Segmentation.
     - **Meta-data:** [project git repo](https://github.com/ai4life-opencalls/oc-1-project-6/tree/main)
+      
 - **Model 2: Cellpose**
     - **Description:** Segmentation of Epithelial Cells.
     - **Meta-data:** [project git repo](https://github.com/ai4life-opencalls/oc-1-project-11/tree/main)
@@ -37,41 +36,27 @@ These are models identified as beneficial for the community but require addition
 
 - **CellPose Models**
   - **Description:** Pre-trained Cellpose models popular in the community.
-  - **Meta-data:** (To be filled)
   
 - **Segment Anything Model (SAM)**
   - **Description:** SAM model conversion being worked on by Constantine.
-  - **Meta-data:** (To be filled)
 
 ### 3. Fine-tuned Models
 
 These models will be fine-tuned by non-experts during the event, using tools like ZeroCostDL4Mic notebooks. A competition will be held to determine the best models to upload based on performance and user experience.
 
-- **Model Fine-tuning Process**
+- **Instance Segmentation for HeLa Cells**
   - **Description:** Participants will download, fine-tune, and export models.
-  - **Data:** (To be filled)
-  - **Performance Metrics:** (To be filled)
+  - **Base Model:** [Affable Shark Model](https://bioimage.io/#/?tags=affable-shark&id=10.5281%2Fzenodo.5764892)
+  - **Training Data:** Modified dataset from the [Cell Tracking Challenge](https://celltrackingchallenge.net/2d-datasets/), [download here](YOUR_GOOGLE_DRIVE_LINK)
   
 ## Progress Tracking Table
 
-| Model Name                  | Category                  | Description                       | Status      | Meta-data Complete | Exported | Uploaded | Notes                    |
-|-----------------------------|---------------------------|-----------------------------------|-------------|--------------------|----------|----------|--------------------------|
-| Ashesh's Model              | Participant Models        | Microscopic image splitting       | Not Started | No                 | No       | No       |                          |
-| Nuno's Model                | Participant Models        | Custom model                      | Not Started | No                 | No       | No       |                          |
-| OpenCall Cellpose Model 1   | Participant Models        | Cellpose model                    | Not Started | No                 | No       | No       |                          |
-| OpenCall Cellpose Model 2   | Participant Models        | Cellpose model                    | Not Started | No                 | No       | No       |                          |
-| OpenCall Detectron Model    | Participant Models        | Detectron model                   | Not Started | No                 | No       | No       |                          |
-| CellPose Models             | Community Interest Models | Pre-trained Cellpose models       | Not Started | No                 | No       | No       |                          |
-| Segment Anything Model (SAM)| Community Interest Models | Model conversion by Constantine   | In Progress | No                 | No       | No       |                          |
-| Fine-tuned Model 1          | Fine-tuned Models         | Fine-tuned during event           | Not Started | No                 | No       | No       |                          |
-| Fine-tuned Model 2          | Fine-tuned Models         | Fine-tuned during event           | Not Started | No                 | No       | No       |                          |
-
-## Meta-data Template
-
-For each model, please fill out the following meta-data:
-
-- **Model Name:**
-  - **Description:**
-  - **Trained By:**
-  - **Training Data:**
-
+| Model Name                                    | Category                  | Description                                                        | Status      | Meta-data Complete | Exported | Uploaded | Notes                    |
+|-----------------------------------------------|---------------------------|--------------------------------------------------------------------|-------------|--------------------|----------|----------|--------------------------|
+| µSplit: image decomposition for fluorescence microscopy | Participant Models        | Microscopic image splitting                                        | Not Started | No                 | No       | No       |                          |
+| DeepContrast                                  | Participant Models        | Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions | Not Started | No                 | No       | No       |                          |
+| OpenCall Cellpose Model 1                     | Participant Models        | Murine Skeletal Muscle Cell Segmentation                           | Not Started | No                 | No       | No       |                          |
+| OpenCall Cellpose Model 2                     | Participant Models        | Segmentation of Epithelial Cells                                   | Not Started | No                 | No       | No       |                          |
+| CellPose Models                               | Community Interest Models | Pre-trained Cellpose models popular in the community               | Not Started | No                 | No       | No       |                          |
+| Segment Anything Model (SAM)                  | Community Interest Models | SAM model conversion by Constantine                                | In Progress | No                 | No       | No       |                          |
+| Instance Segmentation for HeLa Cells          | Fine-tuned Models         | Participants will fine-tune the Affable Shark model using a modified dataset from the Cell Tracking Challenge | Not Started | No                 | No       | No       | Download dataset from [here](YOUR_GOOGLE_DRIVE_LINK) |
