@@ -81,7 +81,8 @@
      ```bash
      git clone https://github.com/BioImage-Archive/pytorch_tutorial
      cd pytorch_tutorial
-     pip install -r requirements.txt
+     conda env create -f environment.yml -p ./env
+     conda activate ./env
      ```
 4. **Testing Setup:**
    - Follow the instructions on [PyTorch Vision](https://pytorch.org/vision/stable/index.html) to verify your setup.
