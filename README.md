@@ -5,10 +5,10 @@ Repository for hosting all resources and details related to the AI4Life and BioI
 * Workshop feedback form [here](https://forms.gle/vX9Kyyy15XwM9f4n6). *Please do it once the workshop is finished.*
 
 ## Useful Links
-[AI4LIFE](https://ai4life.eurobioimaging.eu)
-[BioImage Model Zoo](https://bioimage.io)
-[SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
-[BiaPy](https://biapyx.github.io)
+* [AI4LIFE](https://ai4life.eurobioimaging.eu)
+* [BioImage Model Zoo](https://bioimage.io)
+* [SAMJ](https://github.com/segment-anything-models-java/SAMJ-IJ)
+* [BiaPy](https://biapyx.github.io)
 
 ## AI4Life Social Media
 <div id="badges">
