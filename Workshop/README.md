@@ -9,3 +9,4 @@
 ### Tuesday
 * Slides to [*Build your own BioImage Analysis Workflow with BiaPy*](https://docs.google.com/presentation/d/1fsW_6VhtQJEja_fOpLNmsuqqUMhZYErS_raf_7fZAis/edit?usp=sharing), Daniel Franco-Barranco
 * GitHub Repository to [PyTorch Tutorial](https://github.com/BioImage-Archive/pytorch_tutorial), Craig Russell
+* Notebook to [develope BioImage.IO Chatbot Extensions](https://imjoy-notebook.netlify.app/lab/index.html?load=https://raw.githubusercontent.com/bioimage-io/bioimageio-chatbot/main/docs/bioimage-chatbot-extension-tutorial.ipynb&open=1), Wanlu Lei, Wei Ouyang, Caterina Fuster-Barceló, Benedict Diederich, Songtao Cheng *(please open in **Chrome and Incognito Mode**)*
