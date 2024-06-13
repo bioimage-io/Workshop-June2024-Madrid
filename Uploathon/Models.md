@@ -43,12 +43,16 @@ These are models identified as beneficial for the community but require addition
 ### 3. Fine-tuned Models
 
 These models will be fine-tuned by non-experts during the event, using tools like ZeroCostDL4Mic notebooks. A competition will be held to determine the best models to upload based on performance and user experience.
-The list of the models that are being fine-tuned can be found [here](https://docs.google.com/document/d/1KxXyIBv9sAqVnYEweNgc_xajHHl2sZx-YxNM190scU0/edit?usp=sharing)
 
 - **Instance Segmentation for HeLa Cells**
   - **Description:** Participants will download, fine-tune, and export models.
   - **Base Model:** [Affable Shark Model](https://bioimage.io/#/?tags=affable-shark&id=10.5281%2Fzenodo.5764892)
   - **Training Data:** Modified dataset from the [Cell Tracking Challenge](https://celltrackingchallenge.net/2d-datasets/), [download here](YOUR_GOOGLE_DRIVE_LINK)
+
+#### Useful Links
+* List of models that are being fine-tuned [here](https://docs.google.com/document/d/1KxXyIBv9sAqVnYEweNgc_xajHHl2sZx-YxNM190scU0/edit?usp=sharing)
+* Slides to present the results [here](https://docs.google.com/presentation/d/1TKsrAc2BICgvBdhIleXI2obZaJVWXstwpHlT6Bi24Ec/edit?usp=sharing)
+
   
 ## Progress Tracking Table
 
