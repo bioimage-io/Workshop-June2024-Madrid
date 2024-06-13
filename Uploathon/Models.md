@@ -58,12 +58,12 @@ These models will be fine-tuned by non-experts during the event, using tools lik
 
 | Model Name                                    | Category                  | Description                                                        | Status      | Exported | Uploaded | Notes                    |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------|-------------|----------|----------|--------------------------|
-| µSplit: image decomposition for fluorescence microscopy | Participant Models        | Microscopic image splitting                                        | Not Started | No       | No       |                          |
-| DeepContrast                                  | Participant Models        | Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions | Not Started | No       | No       |                          |
-| OpenCall Cellpose Model 1                     | Participant Models        | Murine Skeletal Muscle Cell Segmentation                           | Not Started | No       | No       |                          |
-| OpenCall Cellpose Model 2                     | Participant Models        | Segmentation of Epithelial Cells                                   | Not Started | No       | No       |                          |
+| µSplit: image decomposition for fluorescence microscopy | Participant Models        | Microscopic image splitting                                        | Work in progress | No       | No       |                          |
+| DeepContrast                                  | Participant Models        | Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions | Done | Yes       | Yes       |                          |
+| OpenCall Cellpose Model 1                     | Participant Models        | Murine Skeletal Muscle Cell Segmentation                           | Not Started | No       | No       | Waiting for Qin's cellpose wrapper code  |
+| OpenCall Cellpose Model 2                     | Participant Models        | Segmentation of Epithelial Cells                                   | Not Started | No       | No       | Waiting for Qin's cellpose wrapper code  |
 | CellPose Models                               | Community Interest Models | Pre-trained Cellpose models popular in the community               | Not Started | No       | No       |                          |
-| Segment Anything Model (SAM)                  | Community Interest Models | SAM model conversion by Constantine                                | In Progress | No       | No       |                          |
+| MobileSAM Encoder                  | Community Interest Models | Only encoder part of the MobileSAM for feature extraction  | Done | Yes       | Yes       |                          |
 | Instance Segmentation for HeLa Cells          | Fine-tuned Models         | Participants will fine-tune the Affable Shark model using a modified dataset from the Cell Tracking Challenge | Not Started | No       | No       | Download dataset from [here](YOUR_GOOGLE_DRIVE_LINK) |
 
 ## Testing the Test Run feature
