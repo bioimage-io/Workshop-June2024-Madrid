@@ -43,6 +43,7 @@ These are models identified as beneficial for the community but require addition
 ### 3. Fine-tuned Models
 
 These models will be fine-tuned by non-experts during the event, using tools like ZeroCostDL4Mic notebooks. A competition will be held to determine the best models to upload based on performance and user experience.
+The list of the models that are being fine-tuned can be found [here](https://docs.google.com/document/d/1KxXyIBv9sAqVnYEweNgc_xajHHl2sZx-YxNM190scU0/edit?usp=sharing)
 
 - **Instance Segmentation for HeLa Cells**
   - **Description:** Participants will download, fine-tune, and export models.
@@ -60,3 +61,6 @@ These models will be fine-tuned by non-experts during the event, using tools lik
 | CellPose Models                               | Community Interest Models | Pre-trained Cellpose models popular in the community               | Not Started | No       | No       |                          |
 | Segment Anything Model (SAM)                  | Community Interest Models | SAM model conversion by Constantine                                | In Progress | No       | No       |                          |
 | Instance Segmentation for HeLa Cells          | Fine-tuned Models         | Participants will fine-tune the Affable Shark model using a modified dataset from the Cell Tracking Challenge | Not Started | No       | No       | Download dataset from [here](YOUR_GOOGLE_DRIVE_LINK) |
+
+## Testing the Test Run feature
+Please, go to each model card in the [bioimage.io](https://bioimage.io) and run each model with the example input image. Go to [this sheet file](https://docs.google.com/spreadsheets/d/1Ai5q2QCQ4kzyeDnp9QkZKelgELH6H1cwFYwByxcXPgA/edit?usp=sharing) and check if the test run feature is working. 
