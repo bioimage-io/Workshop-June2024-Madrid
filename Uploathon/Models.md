@@ -58,7 +58,7 @@ These models will be fine-tuned by non-experts during the event, using tools lik
 
 | Model Name                                    | Category                  | Description                                                        | Status      | Exported | Uploaded | Notes                    |
 |-----------------------------------------------|---------------------------|--------------------------------------------------------------------|-------------|----------|----------|--------------------------|
-| µSplit: image decomposition for fluorescence microscopy | Participant Models        | Microscopic image splitting                                        | Work in progress | No       | No       |                          |
+| µSplit: image decomposition for fluorescence microscopy | Participant Models        | Microscopic image splitting                                        | Done | Yes       | Yes       |                          |
 | DeepContrast                                  | Participant Models        | Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions | Done | Yes       | Yes       |                          |
 | OpenCall Cellpose Model 1                     | Participant Models        | Murine Skeletal Muscle Cell Segmentation                           | Not Started | No       | No       | Waiting for Qin's cellpose wrapper code  |
 | OpenCall Cellpose Model 2                     | Participant Models        | Segmentation of Epithelial Cells                                   | Not Started | No       | No       | Waiting for Qin's cellpose wrapper code  |
