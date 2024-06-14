@@ -17,5 +17,5 @@
 * Slides to [*Representation learning on BioImage Archive data*](PENDING), Craig Russell
 * Slides to [* Introduction to PyTorch for Deep Learning*](PENDING), Craig Russell
 * GitHub Repository to [*PyTorch Tutorial*](https://github.com/BioImage-Archive/pytorch_tutorial), Craig Russell
-* Slides to [*BioImage.IO Chatbot and Extension Development*](PENDING), Wei Ouyang, Caterina Fuster-Barceló, Benedict Diederich, Wanlu Lei
+* Slides to [*BioImage.IO Chatbot and Extension Development*](https://github.com/bioimage-io/Workshop-June2024-Madrid/blob/main/Workshop/20240611%20-%20BioImageIO%20Chatbot.pdf), Wei Ouyang, Caterina Fuster-Barceló, Benedict Diederich, Wanlu Lei
 * Notebook to [*develope BioImage.IO Chatbot Extensions*](https://imjoy-notebook.netlify.app/lab/index.html?load=https://raw.githubusercontent.com/bioimage-io/bioimageio-chatbot/main/docs/bioimage-chatbot-extension-tutorial.ipynb&open=1), Wanlu Lei, Wei Ouyang, Caterina Fuster-Barceló, Benedict Diederich, Songtao Cheng *(please open in **Chrome and Incognito Mode**)*
