@@ -1,5 +1,7 @@
 
 ## Links to slides and material
+PDF presentations are available in the [AI4Life Zenodo community](https://zenodo.org/records/11657763).
+
 ### Monday
 * Slides to [*Introduction to Microscopy Image Analysis*](https://go.epfl.ch/microscopy-image-analysis), Daniel Sage
 * Slides to [*Deep Learning for Microscopy*](https://docs.google.com/presentation/d/1zI4XxaDaYuVvQpcAxZRYIlpaAvTSw0E579HTqZ1Yeuk/edit?usp=sharing), Ignacio Arganda-Carreras
