@@ -1,4 +1,4 @@
-# BioImage Model Zoo Uploathon: Fine-tuning Models
+# BioImage Model Zoo Uploathon: Fine-tuning Models with BiaPy
 
 ## Overview
 
